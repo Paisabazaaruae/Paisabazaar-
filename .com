@@ -178,7 +178,42 @@ footer p{font-size:0.9rem;}
     </ul>
   </div>
 </div>
+<div class="accordion-item">  
+  <div class="accordion-header">🛍️ 0% EMI on Gold & Electronics</div>  
+  <div class="accordion-content">  
+    <ul>  
+      <li>Buy gold, electronics & high-value products with 0% interest EMI</li>  
+      <li>Flexible EMI tenure from 3 to 12 months</li>  
+      <li>No-cost EMI available on selected cards & merchants</li>  
+      <li>Instant EMI conversion at eligible stores and online platforms</li>  
+    </ul>  
+  </div>  
+</div>  
 
+<div class="accordion-item">  
+  <div class="accordion-header">💡 Buy Now, Without Touching Your Savings</div>  
+  <div class="accordion-content">  
+    <ul>  
+      <li>Purchase anything without using your savings</li>  
+      <li>Convert card spends into 0% interest EMI options</li>  
+      <li>Smart way to manage cash flow & monthly expenses</li>  
+      <li>Available on selected bank-approved credit cards</li>  
+    </ul>  
+  </div>  
+</div>  
+
+<div class="accordion-item">  
+  <div class="accordion-header">🚫 No Late Fee & No Overlimit Usage Fee</div>  
+  <div class="accordion-content">  
+    <ul>  
+      <li>0 late payment fees on eligible zero-fee cards</li>  
+      <li>0 overlimit charges on selected cards</li>  
+      <li>No annual fee or card cancellation charges</li>  
+      <li>Transparent pricing with no hidden fees</li>  
+      <li>Available on selected bank-approved credit cards</li>  
+    </ul>  
+  </div>  
+</div>
 <div class="accordion-item">
   <div class="accordion-header">
     🛡️ Zero Charges Credit Cards
